@@ -1,4 +1,5 @@
 window.onload = loadList;
+
 var current = 0;
 var allSongs = [];
 
